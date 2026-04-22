@@ -20,7 +20,7 @@ from aiogram.types import (
 
 # ================== НАСТРОЙКИ ==================
 BOT_TOKEN = "8787051477:AAGWUCIgN7Vd2uICH_txBG3cv6LSW5GSDXg"
-ADMIN_IDS = {5931871517}
+ADMIN_IDS = {1367700561}
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DB_PATH = os.path.join(BASE_DIR, "database.db")
